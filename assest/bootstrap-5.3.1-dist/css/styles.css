@@ -1,6 +1,14 @@
 body{
-    background-color:  violet;
+    background-color: burlywood;
 }
  div{
     background-color:  lightgray;
- }
+}
+
+.grid-layout.container{
+    border: 1px solid brown;
+
+}
+.col.bg{
+    border: 1px solid black;
+}
